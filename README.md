@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter
+## With eslint, stylelint, and pre-commit hooks
+### Comes with pinia for global state management
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
