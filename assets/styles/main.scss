@@ -1,0 +1,48 @@
+.headline {
+  font-family: 'Hatton Medium', serif;
+}
+
+// ~~ Reusable styles ~~ //
+.flex {
+  display: flex;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.align-end {
+  align-items: end;
+}
+
+.align-baseline {
+  align-items: baseline;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.hide {
+  opacity: 0;
+}
+
+.show {
+  opacity: 1;
+}
+
+.snap-child-center {
+  scroll-snap-align: center;
+}
